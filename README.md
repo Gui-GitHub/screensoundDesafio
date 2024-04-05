@@ -9,7 +9,7 @@ Meu primeiro projeto utilizando Spring com PostgreSQL para fazer consultas e adi
 Apresenta artistas e musicas dos artistas. </br>
 Integração com banco de dados. </br>
 Uso de variáveis de ambiente. </br>
-Interface via consolea.
+Interface via console.
 
 <h1>Pré-requisitos</h1>
 JDK (Java Development Kit) instalado. </br>
