@@ -6,9 +6,9 @@
 Meu primeiro projeto utilizando Spring com PostgreSQL para fazer consultas e adicionar dados. O projeto foi feito durante o curso Alura. Usei variável de ambiente para tornar meu código mais seguro.
 
 # Funcionalidades
-Apresenta artistas e musicas dos artistas.
-Integração com banco de dados.
-Uso de variáveis de ambiente.
+Apresenta artistas e musicas dos artistas. </br>
+Integração com banco de dados. </br>
+Uso de variáveis de ambiente. </br>
 Interface via consolea.
 
 <h1>Pré-requisitos</h1>
